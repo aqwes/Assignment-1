@@ -2,7 +2,7 @@
 package guis;
 
 /**
- * Main class that starts the program
+ * Main class that starts the pgrogram
  * 
  * @author Dennis
  *
